@@ -24,6 +24,7 @@
 
 - [x] **Cadastrar Usuário**
 - [x] **Fazer Login**
+- [x] 
 
 # Tecnologias Usadas
 
