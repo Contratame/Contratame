@@ -1,7 +1,7 @@
 # Contrata.Me
 
 
-<img src="https://github.com/Contratame/Docs/blob/main/Contrata.me%20(2).png" width="800" heigth="600"/>
+<img src="https://github.com/Contratame/source/blob/main/banner.png" width="800" heigth="600"/>
 
 # Sobre o Projeto 🚀- 
 
