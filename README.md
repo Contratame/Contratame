@@ -1,7 +1,7 @@
 # Contrata.Me
 
 
-![Capa do Projeto](https://picsum.photos/850/280)
+![Capa do Projeto](https://github.com/Contratame/Docs/blob/main/Contrata.Me%20(1).png)
 
 # Sobre o Projeto
 
