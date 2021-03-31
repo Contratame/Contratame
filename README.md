@@ -1,7 +1,7 @@
 # Contrata.Me
 
 
-![Capa do Projeto](https://github.com/Contratame/Docs/blob/main/Contrata.Me%20(1).png)
+<img src="https://github.com/Contratame/Docs/blob/main/Contrata.me%20(2).png" width="800" heigth="600"/>
 
 # Sobre o Projeto
 
