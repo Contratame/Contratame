@@ -3,7 +3,7 @@
 
 <img src="https://github.com/Contratame/source/blob/main/banner.png" width="800" heigth="600"/>
 
-# Sobre o Projeto 🚀- 
+# Sobre o Projeto 🚀
 
  Nosso trabalho terá uma abordagem sobre um problema que é muito decorrente em nossa sociedade que é na preparação de jovens para o mercado de trabalho. Nossa solução será a construção de um aplicativo mobile que trata informações sobre como os jovens devem se portar de forma adequada na sua primeira entrevista de trabalho, como seu modo de agir e falar, seu vestiário, documentos necessários para a entrevista, ect, de um forma descontraída nosso app irá abordar todas essas situações.
 	
