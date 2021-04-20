@@ -39,7 +39,10 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 
-[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
+GERENTE _ Breno Moreira
+Subgerente _ Filipe Araújo 
+Marketing _ Vinicius Meireles, Paula Costa 
+Desenvolvimento _ Danilo Gonzaga, Pedro Lucas, Marlon Bertuani
 
 # Licença
 
