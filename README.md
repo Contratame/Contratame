@@ -22,8 +22,9 @@
 
 # Requisitos Funcionais 
 
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
+- [x] **Inicar nova partida**
+- [x] **escolher personagem**
+- [x] **sistema de pontuação** 
 
 # Tecnologias Usadas
 
