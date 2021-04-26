@@ -43,7 +43,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 **Contatos**
 
 Vinicius https://github.com/viinioliveira | <a href="mailto:viniciusmeireles08@gmail.com">E-mail</a><br>
-
+Pedro https://github.com/Pedrolukito2 | <a href="mailto:pedrovoy@gmail.com">E-mail</a><br>
 
 # Licença
 
