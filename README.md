@@ -39,10 +39,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 
-- GERENTE _ Breno Moreira
-- Subgerente _ Filipe Araújo 
-- Marketing _ Vinicius Meireles, Paula Costa 
-- Desenvolvimento _ Danilo Gonzaga, Pedro Lucas, Marlon Bertuani
+<img src="https://github.com/Contratame/source/blob/main/Contrata.me.png">
 
 # Licença
 
