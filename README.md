@@ -41,6 +41,10 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 <img src="https://github.com/Contratame/source/blob/main/Contrata.me.png"  width=1200>
 
+**Contatos**
+
+<h6>Vinicius<h6>
+https://github.com/viinioliveira | <a href="mailto:viniciusmeireles08@gmail.com">E-mail</a>
 # Licença
 
 Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
