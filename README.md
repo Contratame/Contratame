@@ -39,7 +39,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 
-<img src="https://github.com/Contratame/source/blob/main/Contrata.me.png" height=200>
+<img src="https://github.com/Contratame/source/blob/main/Contrata.me.png" height=400 width=800>
 
 # Licença
 
