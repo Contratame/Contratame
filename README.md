@@ -37,7 +37,6 @@
 
 Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
 
-# Autores
 
 <img src="https://github.com/Contratame/source/blob/main/Contrata.me.png"  width=1200>
 
