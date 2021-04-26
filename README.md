@@ -43,8 +43,9 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 **Contatos**
 
-<h6>Vinicius<h6>
-https://github.com/viinioliveira | <a href="mailto:viniciusmeireles08@gmail.com">E-mail</a>
+Vinicius https://github.com/viinioliveira | <a href="mailto:viniciusmeireles08@gmail.com">E-mail</a><br>
+
+
 # Licença
 
 Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
