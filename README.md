@@ -23,7 +23,6 @@
 # Requisitos Funcionais 
 
 - [x] **Inicar nova partida**
-- [x] **escolher personagem**
 - [x] **sistema de pontuação** 
 
 # Tecnologias Usadas
