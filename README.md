@@ -28,9 +28,7 @@
 # Tecnologias Usadas
 
 - [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
-- [Angular](https://angular.io/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Dart](https://dart.dev//)
 
 # Contribuição
 
